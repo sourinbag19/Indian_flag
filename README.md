@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**: 
 
    ```bash
-   git clone https://github.com/yourusername/indian-flag-project.git
+   git clone https://github.com/sourinbag19/indian-flag-project.git
 # Indian Flag Project
 
 This project dynamically generates the Indian national flag using HTML, CSS, and JavaScript. It showcases the power of web technologies to create engaging, animated visuals in the browser. 
